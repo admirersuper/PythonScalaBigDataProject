@@ -21,3 +21,12 @@ Data of Enroll Information of Chinese College Entrance Examination in gaokaopai.
 
 ## day6:
 Deal whit data with Scala
+
+## day7
+Data analysis of Taobao data
+
+## day8
+Data snalysis of Taobao data and Visualize
+
+## day9
+Project display
